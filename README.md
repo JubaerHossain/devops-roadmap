@@ -83,12 +83,15 @@
     - [New LPIC-1 Learning with Jadi (Recording)](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=1) (Persian Language)
     - [New LPIC-1 Learning with Jadi (Recording)](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj) (English Language)
     - [Jadi's free LPIC 1 book](https://linux1st.com/) (English Language)
+   
+    - [LPIC-1: Linux Administrator Free on yputube ](https://youtube.com/playlist?list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj&si=rsrVP5_RzkpQA64P)
     
 - ### Docker (Mandatory)
   - Videos:
     - [Docker for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/) (This course is free and it's a good start for learning docker)
   - Books/Docs/Code:
     - [Docker Deep Dive By  Nigel Poulton](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/ref=tmm_pap_swatch_0) (English book for beginners to have a fundamental knowledge of how to use Docker)
+    - [Docker for the Absolute Beginner Free on youtube ](https://youtube.com/playlist?list=PL2We04F3Y_42mOz2jsBqB_TOGIgaB8KkL&si=24UewjlrfcsD0N4c)
 
 - ### Containerd or LXC (Optional)
   - Videos:
